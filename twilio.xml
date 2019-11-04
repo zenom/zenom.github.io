@@ -1,0 +1,6 @@
+<Response>
+  <Say voice="alice">
+    Please stand by while we connect you with your mentor.
+  </Say>
+  <Dial>+15176144162</Dial>
+</Response>
